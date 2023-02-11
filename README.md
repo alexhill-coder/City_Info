@@ -18,10 +18,13 @@ This app was created using:
 - [node-fetch](https://www.npmjs.com/package/node-fetch?activeTab=readme)
 
 To install:
-1. Download the files to a local directory. 
-2. Use a command/terminal to select the directory folder.
-3. Run the following command 'npm install' to download the required module.
-4. Then once the module have been downloaded the file should run in any javascript environment that uses a terminal/console for input.
+1. You will need to create an account at rapidapi.com and sign-up (for free) for the geodb-cities api [found here.](https://rapidapi.com/wirefreethought/api/geodb-cities/).
+2. Sign up for the Weather api (again for free) [found here.](https://rapidapi.com/weatherbit/api/weather/).
+3. Download the files to a local directory. 
+4. Use a command/terminal to select the directory folder.
+5. Run the following command 'npm install' to download the required module.
+6. Then once the module have been downloaded find the apiPassword variable near the top of the cityDetails.js file and insert the password given by the rapidapi.com when you registered for the apis.
+7. The file should now run in any javascript environment that uses a terminal/console for input.
 
 ## How To Use
 
