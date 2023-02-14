@@ -37,11 +37,11 @@ If you wish to contribute to any of my files, you are more than welcome to as lo
  - If you are making major changes please branch the project.
  - Provide a name/handle so you can be aknowledged for your work.
  - You do not require my permission to proceed with any changes.
- - As this is an MIT License the project may be copied to another repository for any reason at any time and used how they see fit.
+ - As this is Unlicensed the project may be copied to another repository for any reason at any time and used how they see fit.
 
 ## License
 
-This project falls under The MIT License allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/city_Info_task35/blob/main/LICENSE)
+This project falls under The Unlicense License allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/city_Info_task35/blob/main/LICENSE)
 
 ## Credits
 
